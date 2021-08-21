@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: jp-holiday
+Version: 1.0.0
+Summary: pandasのデータフレームに日本の日付フラグを与えて，データフレームを返します。
+Home-page: hoge
+Author: kyasby
+Author-email: kryo.iryo.tryo@gmail.com
+License: MIT
+Description: # Japnese Holiday
+        
+Keywords: holiday japan pandas dataframe
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8.5
+Description-Content-Type: text/markdown
