@@ -25,5 +25,3 @@ def is_holiday(df, day_column_name, holiday_colum_name="holiday"):
     df[holiday_colum_name] = df_day.apply(convert)
 
     return df
-
-

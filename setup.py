@@ -12,7 +12,7 @@ setup(
     name='jp_holiday', # パッケージ名(プロジェクト名)
     packages=['jp_holiday'], # パッケージ内(プロジェクト内)のパッケージ名をリスト形式で指定
 
-    version='1.0.0', # バージョン
+    version='1.0.3', # バージョン
 
     license='MIT', # ライセンス
 
